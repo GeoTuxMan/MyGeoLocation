@@ -30,10 +30,13 @@ A modern React Native geolocation application built with Expo, featuring OpenStr
 3)Installation
 
 git clone https://github.com/GeoTuxMan/MyGeoLocation.git
+
 cd MyGeoLocation
 
 >npm install
+
 >npm install -g expo-cli
+
 >npx expo install expo-location react-native-maps @expo/vector-icons
 
 4)Running the App
