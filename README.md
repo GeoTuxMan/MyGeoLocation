@@ -58,7 +58,7 @@ cd MyGeoLocation
 
 >eas login
 
->as build:configure
+>eas build:configure
 
 # Build for Android
 >eas build --platform android --profile production
